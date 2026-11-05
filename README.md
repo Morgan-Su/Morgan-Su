@@ -4,5 +4,5 @@ Hello, I'm Morgan and I currently attend the University of Waterloo for Computer
 
 
 <div data-importer="stats" align="left">
-  <img src="https://streak-stats.demolab.com?user=Morgan-Su&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morgan-Su&theme=radical&include_all_commits=true&count_private=true"  />
 </div>
